@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>我的网页</title>
+    <link rel="stylesheet" href="./html/css/element.css">
+    <style>
+        body{
+            background-color: cyan;
+        }
+        h1{
+            width: 100px;
+            border: 1px solid green;
+        }
+        h2{
+            width:220px;
+            padding:10px;
+            border:25px solid gray;
+            margin:0x;
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <h1>救救我</h1>
+    <h2>唉</h2>
+    <h3>。。。。。。。</h3>
+    <h4>这也太难了吧</h4>
+    <p>段落段落段落段落段落段落段落</p>
+    <a href="http://www.baidu.com">百度</a>
+    <a href="./neibu.html">内部网</a>
+
+    <p>
+        <img src="./html1/images/timg (3).jpg" width="300" height="300">
+    </p>
+
+</body>
+<h4>好诗：</h4>
+<table border="1" >
+<tr>
+    <td>我</td>
+    <td>是</td>
+    <td>你</td>
+</tr>
+<tr>
+    <td>好</td>
+    <td>大</td>
+    <td>爹</td>
+</tr>
+</table>
+<h4>一个无序列表：</h4>
+<ul>
+  <li>咖啡</li>
+  <li>茶</li>
+  <li>牛奶</li>
+</ul>
+<div>
+    <video width="500" height="480" controls="controls" autoplay="autoplay">
+        <source src="./html1/sp/PartyAnimals 2020-10-08 12-54-11.mp4" type="video/mp4" />
+        </object>
+      </video>
+</div>
+</html>
